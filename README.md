@@ -6,7 +6,7 @@ It starts off by processing the data from the .fas file to where I have an array
 With that knowledge I can then run the data frame through my K Means method. The K Means method follows the process of: 
 1. Specify the number of clusters to be assigned 
 2. Randomly initialize K centroids 
-3. Assign each point to it's closest centroid 
+3. Assign each point to its closest centroid 
 4. Compute the new centroid(Mean) of each cluster 
 5. Go back to step 3 and repeate until the values of the centroids go unchanged 
 
