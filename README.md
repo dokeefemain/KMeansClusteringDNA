@@ -10,6 +10,6 @@ With that knowledge I can then run the data frame through my K Means method. The
 4. Compute the new centroid(Mean) of each cluster 
 5. Go back to step 3 and repeate until the values of the centroids go unchanged 
 
-After completion the data frame will be returned with a new column containig the cluster that each data point belongs to. I then create another scatterplot but this time each point has a color corresponding to the cluster it belongs to.
+After completion the data frame will be returned with a new column containing the cluster that each data point belongs to. I then create another scatterplot but this time each point has a color corresponding to the cluster it belongs to.
 
 ![](Images/Finnished.png)
